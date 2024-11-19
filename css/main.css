@@ -41,3 +41,11 @@ button {
   cursor: pointer;
   font-weight: 600;
 }
+
+.form-error {
+  color: lightsalmon;
+}
+
+.form-success {
+  color: lightgreen;
+}
